@@ -1,5 +1,5 @@
 # advent-of-code-2019
-Solutions to advent of code 2019
+My solutions to advent of code 2019
 (small programming puzzles)
 
 ## What is Aoc?
