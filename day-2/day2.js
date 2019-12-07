@@ -1,9 +1,6 @@
 const fs = require('fs');
 var data = fs
-  .readFileSync(
-    '/Users/edwar/Documents/Udemy/advent-of-code-2019/day-2/input.txt',
-    'utf-8'
-  )
+  .readFileSync('input.txt', 'utf-8')
   .split(',')
   .map(Number);
 
